@@ -1,0 +1,1611 @@
+time to load data: 1.291800
+time for layer 1: 0.504165 
+time to compute cost: 0.011752 
+time for layer 0 backward: 0.896909 
+time for iteration 0: 1 
+time for layer 1: 0.467938 
+time to compute cost: 0.011048 
+time for layer 0 backward: 0.859391 
+time for iteration 1: 1 
+time for layer 1: 0.640718 
+time to compute cost: 0.011097 
+time for layer 0 backward: 0.842786 
+time for iteration 2: 1 
+time for layer 1: 0.476936 
+time to compute cost: 0.014569 
+time for layer 0 backward: 0.916284 
+time for iteration 3: 1 
+time for layer 1: 0.549470 
+time to compute cost: 0.012260 
+time for layer 0 backward: 0.802521 
+time for iteration 4: 1 
+time for layer 1: 0.461436 
+time to compute cost: 0.012530 
+time for layer 0 backward: 0.822232 
+time for iteration 5: 1 
+time for layer 1: 0.462847 
+time to compute cost: 0.010709 
+time for layer 0 backward: 0.912425 
+time for iteration 6: 1 
+time for layer 1: 0.520109 
+time to compute cost: 0.014847 
+time for layer 0 backward: 0.829137 
+time for iteration 7: 1 
+time for layer 1: 0.450326 
+time to compute cost: 0.013441 
+time for layer 0 backward: 0.830999 
+time for iteration 8: 1 
+time for layer 1: 0.474780 
+time to compute cost: 0.011511 
+time for layer 0 backward: 0.835166 
+time for iteration 9: 1 
+time for layer 1: 0.498843 
+time to compute cost: 0.012784 
+time for layer 0 backward: 0.824927 
+time for iteration 10: 1 
+time for layer 1: 0.460064 
+time to compute cost: 0.012500 
+time for layer 0 backward: 0.799138 
+time for iteration 11: 1 
+time for layer 1: 0.457477 
+time to compute cost: 0.009190 
+time for layer 0 backward: 0.872432 
+time for iteration 12: 1 
+time for layer 1: 0.541299 
+time to compute cost: 0.015466 
+time for layer 0 backward: 0.848268 
+time for iteration 13: 1 
+time for layer 1: 0.461293 
+time to compute cost: 0.015329 
+time for layer 0 backward: 0.807747 
+time for iteration 14: 1 
+time for layer 1: 0.450444 
+time to compute cost: 0.014895 
+time for layer 0 backward: 0.817397 
+time for iteration 15: 1 
+time for layer 1: 0.462807 
+time to compute cost: 0.015459 
+time for layer 0 backward: 0.791775 
+time for iteration 16: 1 
+time for layer 1: 0.515686 
+time to compute cost: 0.013687 
+time for layer 0 backward: 0.886295 
+time for iteration 17: 1 
+time for layer 1: 0.459916 
+time to compute cost: 0.014806 
+time for layer 0 backward: 0.840784 
+time for iteration 18: 1 
+time for layer 1: 0.582513 
+time to compute cost: 0.015999 
+time for layer 0 backward: 0.847421 
+time for iteration 19: 1 
+time for layer 1: 0.533678 
+time to compute cost: 0.011689 
+time for layer 0 backward: 0.880136 
+time for iteration 20: 1 
+time for layer 1: 0.465503 
+time to compute cost: 0.013903 
+time for layer 0 backward: 0.860026 
+time for iteration 21: 1 
+time for layer 1: 0.466851 
+time to compute cost: 0.011908 
+time for layer 0 backward: 0.848431 
+time for iteration 22: 1 
+time for layer 1: 0.522639 
+time to compute cost: 0.018178 
+time for layer 0 backward: 0.865567 
+time for iteration 23: 1 
+time for layer 1: 0.456230 
+time to compute cost: 0.014687 
+time for layer 0 backward: 0.791491 
+time for iteration 24: 1 
+time for layer 1: 0.523271 
+time to compute cost: 0.016405 
+time for layer 0 backward: 0.806274 
+time for iteration 25: 1 
+time for layer 1: 0.461545 
+time to compute cost: 0.013677 
+time for layer 0 backward: 0.887600 
+time for iteration 26: 1 
+time for layer 1: 0.458078 
+time to compute cost: 0.015006 
+time for layer 0 backward: 0.805663 
+time for iteration 27: 1 
+time for layer 1: 0.474623 
+time to compute cost: 0.011908 
+time for layer 0 backward: 0.796922 
+time for iteration 28: 1 
+time for layer 1: 0.443889 
+time to compute cost: 0.016515 
+time for layer 0 backward: 0.806709 
+time for iteration 29: 1 
+time for layer 1: 0.458478 
+time to compute cost: 0.012233 
+time for layer 0 backward: 0.899759 
+time for iteration 30: 1 
+time for layer 1: 0.468482 
+time to compute cost: 0.014736 
+time for layer 0 backward: 0.818710 
+time for iteration 31: 1 
+time for layer 1: 0.451267 
+time to compute cost: 0.010439 
+time for layer 0 backward: 0.786278 
+time for iteration 32: 1 
+time for layer 1: 0.527260 
+time to compute cost: 0.015803 
+time for layer 0 backward: 0.843316 
+time for iteration 33: 1 
+time for layer 1: 0.458186 
+time to compute cost: 0.015724 
+time for layer 0 backward: 0.810989 
+time for iteration 34: 1 
+time for layer 1: 0.448491 
+time to compute cost: 0.013464 
+time for layer 0 backward: 0.850656 
+time for iteration 35: 1 
+time for layer 1: 0.459329 
+time to compute cost: 0.013574 
+time for layer 0 backward: 0.789716 
+time for iteration 36: 1 
+time for layer 1: 0.527243 
+time to compute cost: 0.018490 
+time for layer 0 backward: 0.856915 
+time for iteration 37: 1 
+time for layer 1: 0.449790 
+time to compute cost: 0.013440 
+time for layer 0 backward: 0.839071 
+time for iteration 38: 1 
+time for layer 1: 0.457556 
+time to compute cost: 0.014499 
+time for layer 0 backward: 0.818253 
+time for iteration 39: 1 
+time for layer 1: 0.515400 
+time to compute cost: 0.012514 
+time for layer 0 backward: 0.849938 
+time for iteration 40: 1 
+time for layer 1: 0.442571 
+time to compute cost: 0.013924 
+time for layer 0 backward: 0.819367 
+time for iteration 41: 1 
+time for layer 1: 0.459540 
+time to compute cost: 0.012756 
+time for layer 0 backward: 0.806468 
+time for iteration 42: 1 
+time for layer 1: 0.459827 
+time to compute cost: 0.014031 
+time for layer 0 backward: 0.867952 
+time for iteration 43: 1 
+time for layer 1: 0.683987 
+time to compute cost: 0.014633 
+time for layer 0 backward: 0.951088 
+time for iteration 44: 1 
+time for layer 1: 0.708007 
+time to compute cost: 0.022344 
+time for layer 0 backward: 1.013864 
+time for iteration 45: 2 
+time for layer 1: 0.508083 
+time to compute cost: 0.012313 
+time for layer 0 backward: 0.946468 
+time for iteration 46: 1 
+time for layer 1: 0.535857 
+time to compute cost: 0.014419 
+time for layer 0 backward: 0.934707 
+time for iteration 47: 1 
+time for layer 1: 0.622969 
+time to compute cost: 0.010872 
+time for layer 0 backward: 0.733483 
+time for iteration 48: 1 
+time for layer 1: 0.431025 
+time to compute cost: 0.011965 
+time for layer 0 backward: 0.855835 
+time for iteration 49: 1 
+time for layer 1: 0.473537 
+time to compute cost: 0.010977 
+time for layer 0 backward: 0.813245 
+time for iteration 50: 1 
+time for layer 1: 0.447162 
+time to compute cost: 0.010766 
+time for layer 0 backward: 0.831609 
+time for iteration 51: 1 
+time for layer 1: 0.426137 
+time to compute cost: 0.011068 
+time for layer 0 backward: 0.840315 
+time for iteration 52: 1 
+time for layer 1: 0.494742 
+time to compute cost: 0.011481 
+time for layer 0 backward: 0.782604 
+time for iteration 53: 1 
+time for layer 1: 0.430415 
+time to compute cost: 0.010430 
+time for layer 0 backward: 0.858589 
+time for iteration 54: 1 
+time for layer 1: 0.572085 
+time to compute cost: 0.013878 
+time for layer 0 backward: 0.983658 
+time for iteration 55: 1 
+time for layer 1: 0.546741 
+time to compute cost: 0.012305 
+time for layer 0 backward: 0.887171 
+time for iteration 56: 1 
+time for layer 1: 0.486250 
+time to compute cost: 0.028249 
+time for layer 0 backward: 0.893499 
+time for iteration 57: 1 
+time for layer 1: 0.525670 
+time to compute cost: 0.012670 
+time for layer 0 backward: 1.014915 
+time for iteration 58: 1 
+time for layer 1: 0.574301 
+time to compute cost: 0.012405 
+time for layer 0 backward: 0.788018 
+time for iteration 59: 1 
+time for layer 1: 0.429477 
+time to compute cost: 0.010714 
+time for layer 0 backward: 0.776010 
+time for iteration 60: 1 
+time for layer 1: 0.449613 
+time to compute cost: 0.011836 
+time for layer 0 backward: 0.760760 
+time for iteration 61: 1 
+time for layer 1: 0.425126 
+time to compute cost: 0.011244 
+time for layer 0 backward: 0.939823 
+time for iteration 62: 1 
+time for layer 1: 0.511377 
+time to compute cost: 0.012886 
+time for layer 0 backward: 0.817490 
+time for iteration 63: 1 
+time for layer 1: 0.555032 
+time to compute cost: 0.010148 
+time for layer 0 backward: 0.877296 
+time for iteration 64: 1 
+time for layer 1: 0.462113 
+time to compute cost: 0.012337 
+time for layer 0 backward: 0.780819 
+time for iteration 65: 1 
+time for layer 1: 0.439439 
+time to compute cost: 0.010953 
+time for layer 0 backward: 0.920250 
+time for iteration 66: 1 
+time for layer 1: 0.467948 
+time to compute cost: 0.011972 
+time for layer 0 backward: 0.802839 
+time for iteration 67: 1 
+time for layer 1: 0.415618 
+time to compute cost: 0.014835 
+time for layer 0 backward: 0.915369 
+time for iteration 68: 1 
+time for layer 1: 0.467663 
+time to compute cost: 0.012454 
+time for layer 0 backward: 0.825822 
+time for iteration 69: 1 
+time for layer 1: 0.454591 
+time to compute cost: 0.010520 
+time for layer 0 backward: 0.760481 
+time for iteration 70: 1 
+time for layer 1: 0.483148 
+time to compute cost: 0.012771 
+time for layer 0 backward: 0.812415 
+time for iteration 71: 1 
+time for layer 1: 0.419255 
+time to compute cost: 0.011940 
+time for layer 0 backward: 0.748598 
+time for iteration 72: 1 
+time for layer 1: 0.477530 
+time to compute cost: 0.013684 
+time for layer 0 backward: 0.830483 
+time for iteration 73: 1 
+time for layer 1: 0.462435 
+time to compute cost: 0.011758 
+time for layer 0 backward: 0.785873 
+time for iteration 74: 1 
+time for layer 1: 0.414903 
+time to compute cost: 0.012697 
+time for layer 0 backward: 0.731358 
+time for iteration 75: 1 
+time for layer 1: 0.414862 
+time to compute cost: 0.019594 
+time for layer 0 backward: 0.815396 
+time for iteration 76: 1 
+time for layer 1: 0.416162 
+time to compute cost: 0.012750 
+time for layer 0 backward: 0.719499 
+time for iteration 77: 1 
+time for layer 1: 0.457499 
+time to compute cost: 0.012334 
+time for layer 0 backward: 0.835160 
+time for iteration 78: 1 
+time for layer 1: 0.424908 
+time to compute cost: 0.013412 
+time for layer 0 backward: 0.722525 
+time for iteration 79: 1 
+time for layer 1: 0.454957 
+time to compute cost: 0.012742 
+time for layer 0 backward: 0.755372 
+time for iteration 80: 1 
+time for layer 1: 0.451402 
+time to compute cost: 0.014191 
+time for layer 0 backward: 0.763353 
+time for iteration 81: 1 
+time for layer 1: 0.414300 
+time to compute cost: 0.011885 
+time for layer 0 backward: 0.727500 
+time for iteration 82: 1 
+time for layer 1: 0.409283 
+time to compute cost: 0.011533 
+time for layer 0 backward: 0.821062 
+time for iteration 83: 1 
+time for layer 1: 0.588499 
+time to compute cost: 0.015429 
+time for layer 0 backward: 0.920361 
+time for iteration 84: 1 
+time for layer 1: 0.497459 
+time to compute cost: 0.013758 
+time for layer 0 backward: 0.794978 
+time for iteration 85: 1 
+time for layer 1: 0.436329 
+time to compute cost: 0.010867 
+time for layer 0 backward: 0.817045 
+time for iteration 86: 1 
+time for layer 1: 0.440699 
+time to compute cost: 0.028229 
+time for layer 0 backward: 0.907990 
+time for iteration 87: 1 
+time for layer 1: 0.686083 
+time to compute cost: 0.012063 
+time for layer 0 backward: 0.890253 
+time for iteration 88: 1 
+time for layer 1: 0.493782 
+time to compute cost: 0.014938 
+time for layer 0 backward: 0.806737 
+time for iteration 89: 1 
+time for layer 1: 0.511901 
+time to compute cost: 0.011799 
+time for layer 0 backward: 0.834116 
+time for iteration 90: 1 
+time for layer 1: 0.505367 
+time to compute cost: 0.013060 
+time for layer 0 backward: 0.827567 
+time for iteration 91: 1 
+time for layer 1: 0.485507 
+time to compute cost: 0.012074 
+time for layer 0 backward: 0.760863 
+time for iteration 92: 1 
+time for layer 1: 0.480971 
+time to compute cost: 0.013747 
+time for layer 0 backward: 0.951221 
+time for iteration 93: 1 
+time for layer 1: 0.494741 
+time to compute cost: 0.012988 
+time for layer 0 backward: 0.830375 
+time for iteration 94: 1 
+time for layer 1: 0.424279 
+time to compute cost: 0.014261 
+time for layer 0 backward: 0.750079 
+time for iteration 95: 1 
+time for layer 1: 0.438525 
+time to compute cost: 0.012384 
+time for layer 0 backward: 0.800283 
+time for iteration 96: 1 
+time for layer 1: 0.569070 
+time to compute cost: 0.013575 
+time for layer 0 backward: 0.945059 
+time for iteration 97: 1 
+time for layer 1: 0.445414 
+time to compute cost: 0.013813 
+time for layer 0 backward: 0.795450 
+time for iteration 98: 1 
+time for layer 1: 0.441611 
+time to compute cost: 0.014643 
+time for layer 0 backward: 0.794742 
+time for iteration 99: 1 
+time for layer 1: 0.469412 
+time to compute cost: 0.011699 
+time for layer 0 backward: 0.895826 
+time for iteration 100: 1 
+time for layer 1: 0.483532 
+time to compute cost: 0.013465 
+time for layer 0 backward: 0.798212 
+time for iteration 101: 1 
+time for layer 1: 0.493127 
+time to compute cost: 0.014416 
+time for layer 0 backward: 0.746682 
+time for iteration 102: 1 
+time for layer 1: 0.463767 
+time to compute cost: 0.013330 
+time for layer 0 backward: 0.775228 
+time for iteration 103: 1 
+time for layer 1: 0.489408 
+time to compute cost: 0.014409 
+time for layer 0 backward: 0.831969 
+time for iteration 104: 1 
+time for layer 1: 0.433281 
+time to compute cost: 0.013914 
+time for layer 0 backward: 0.725913 
+time for iteration 105: 1 
+time for layer 1: 0.426578 
+time to compute cost: 0.013404 
+time for layer 0 backward: 0.746268 
+time for iteration 106: 1 
+time for layer 1: 0.491702 
+time to compute cost: 0.015559 
+time for layer 0 backward: 0.770718 
+time for iteration 107: 1 
+time for layer 1: 0.408825 
+time to compute cost: 0.012492 
+time for layer 0 backward: 0.739132 
+time for iteration 108: 1 
+time for layer 1: 0.429187 
+time to compute cost: 0.012797 
+time for layer 0 backward: 0.707565 
+time for iteration 109: 1 
+time for layer 1: 0.441769 
+time to compute cost: 0.012320 
+time for layer 0 backward: 0.727491 
+time for iteration 110: 1 
+time for layer 1: 0.464497 
+time to compute cost: 0.013788 
+time for layer 0 backward: 0.759179 
+time for iteration 111: 1 
+time for layer 1: 0.421430 
+time to compute cost: 0.014967 
+time for layer 0 backward: 0.798786 
+time for iteration 112: 1 
+time for layer 1: 0.430493 
+time to compute cost: 0.015358 
+time for layer 0 backward: 0.802577 
+time for iteration 113: 1 
+time for layer 1: 0.494955 
+time to compute cost: 0.013089 
+time for layer 0 backward: 0.824544 
+time for iteration 114: 1 
+time for layer 1: 0.464520 
+time to compute cost: 0.012991 
+time for layer 0 backward: 0.787922 
+time for iteration 115: 1 
+time for layer 1: 0.431694 
+time to compute cost: 0.013702 
+time for layer 0 backward: 0.757309 
+time for iteration 116: 1 
+time for layer 1: 0.416390 
+time to compute cost: 0.012238 
+time for layer 0 backward: 0.745352 
+time for iteration 117: 1 
+time for layer 1: 0.528960 
+time to compute cost: 0.011131 
+time for layer 0 backward: 0.864908 
+time for iteration 118: 1 
+time for layer 1: 0.532230 
+time to compute cost: 0.015329 
+time for layer 0 backward: 0.796358 
+time for iteration 119: 1 
+time for layer 1: 0.493008 
+time to compute cost: 0.012374 
+time for layer 0 backward: 0.791247 
+time for iteration 120: 1 
+time for layer 1: 0.526261 
+time to compute cost: 0.028468 
+time for layer 0 backward: 0.938905 
+time for iteration 121: 1 
+time for layer 1: 0.474600 
+time to compute cost: 0.014618 
+time for layer 0 backward: 0.825402 
+time for iteration 122: 1 
+time for layer 1: 0.505905 
+time to compute cost: 0.022253 
+time for layer 0 backward: 0.972915 
+time for iteration 123: 1 
+time for layer 1: 0.558903 
+time to compute cost: 0.012154 
+time for layer 0 backward: 0.831711 
+time for iteration 124: 1 
+time for layer 1: 0.484056 
+time to compute cost: 0.014699 
+time for layer 0 backward: 0.814978 
+time for iteration 125: 1 
+time for layer 1: 0.459761 
+time to compute cost: 0.010431 
+time for layer 0 backward: 0.784990 
+time for iteration 126: 1 
+time for layer 1: 0.473711 
+time to compute cost: 0.012891 
+time for layer 0 backward: 0.804155 
+time for iteration 127: 1 
+time for layer 1: 0.550785 
+time to compute cost: 0.016600 
+time for layer 0 backward: 0.858237 
+time for iteration 128: 1 
+time for layer 1: 0.506669 
+time to compute cost: 0.013782 
+time for layer 0 backward: 0.860382 
+time for iteration 129: 1 
+time for layer 1: 0.454479 
+time to compute cost: 0.014483 
+time for layer 0 backward: 0.803046 
+time for iteration 130: 1 
+time for layer 1: 0.492292 
+time to compute cost: 0.017917 
+time for layer 0 backward: 0.857758 
+time for iteration 131: 1 
+time for layer 1: 0.479279 
+time to compute cost: 0.012494 
+time for layer 0 backward: 0.779445 
+time for iteration 132: 1 
+time for layer 1: 0.540950 
+time to compute cost: 0.015943 
+time for layer 0 backward: 0.808825 
+time for iteration 133: 1 
+time for layer 1: 0.431659 
+time to compute cost: 0.012753 
+time for layer 0 backward: 0.837000 
+time for iteration 134: 1 
+time for layer 1: 0.564457 
+time to compute cost: 0.036851 
+time for layer 0 backward: 0.871369 
+time for iteration 135: 1 
+time for layer 1: 0.445670 
+time to compute cost: 0.012704 
+time for layer 0 backward: 0.884041 
+time for iteration 136: 1 
+time for layer 1: 0.442792 
+time to compute cost: 0.013265 
+time for layer 0 backward: 0.754459 
+time for iteration 137: 1 
+time for layer 1: 0.542104 
+time to compute cost: 0.012695 
+time for layer 0 backward: 0.918953 
+time for iteration 138: 1 
+time for layer 1: 0.534227 
+time to compute cost: 0.023269 
+time for layer 0 backward: 0.759507 
+time for iteration 139: 1 
+time for layer 1: 0.437336 
+time to compute cost: 0.023798 
+time for layer 0 backward: 0.827772 
+time for iteration 140: 1 
+time for layer 1: 0.713617 
+time to compute cost: 0.013968 
+time for layer 0 backward: 0.864702 
+time for iteration 141: 1 
+time for layer 1: 0.473924 
+time to compute cost: 0.012649 
+time for layer 0 backward: 0.812614 
+time for iteration 142: 1 
+time for layer 1: 0.462442 
+time to compute cost: 0.022396 
+time for layer 0 backward: 0.794842 
+time for iteration 143: 1 
+time for layer 1: 0.496480 
+time to compute cost: 0.010748 
+time for layer 0 backward: 0.931334 
+time for iteration 144: 1 
+time for layer 1: 0.467699 
+time to compute cost: 0.046157 
+time for layer 0 backward: 0.845618 
+time for iteration 145: 1 
+time for layer 1: 0.447314 
+time to compute cost: 0.011783 
+time for layer 0 backward: 0.766025 
+time for iteration 146: 1 
+time for layer 1: 0.555315 
+time to compute cost: 0.012622 
+time for layer 0 backward: 0.840477 
+time for iteration 147: 1 
+time for layer 1: 0.458890 
+time to compute cost: 0.011988 
+time for layer 0 backward: 0.795446 
+time for iteration 148: 1 
+time for layer 1: 0.405033 
+time to compute cost: 0.012018 
+time for layer 0 backward: 0.747659 
+time for iteration 149: 1 
+time for layer 1: 0.415997 
+time to compute cost: 0.012419 
+time for layer 0 backward: 0.747504 
+time for iteration 150: 1 
+time for layer 1: 0.463299 
+time to compute cost: 0.016058 
+time for layer 0 backward: 0.821579 
+time for iteration 151: 1 
+time for layer 1: 0.416454 
+time to compute cost: 0.011905 
+time for layer 0 backward: 0.752593 
+time for iteration 152: 1 
+time for layer 1: 0.440715 
+time to compute cost: 0.013452 
+time for layer 0 backward: 0.758459 
+time for iteration 153: 1 
+time for layer 1: 0.444349 
+time to compute cost: 0.010919 
+time for layer 0 backward: 0.757274 
+time for iteration 154: 1 
+time for layer 1: 0.482624 
+time to compute cost: 0.015004 
+time for layer 0 backward: 0.804574 
+time for iteration 155: 1 
+time for layer 1: 0.422437 
+time to compute cost: 0.011851 
+time for layer 0 backward: 0.760773 
+time for iteration 156: 1 
+time for layer 1: 0.443466 
+time to compute cost: 0.012869 
+time for layer 0 backward: 0.826287 
+time for iteration 157: 1 
+time for layer 1: 0.479926 
+time to compute cost: 0.028230 
+time for layer 0 backward: 0.771975 
+time for iteration 158: 1 
+time for layer 1: 0.414815 
+time to compute cost: 0.014025 
+time for layer 0 backward: 0.746126 
+time for iteration 159: 1 
+time for layer 1: 0.431663 
+time to compute cost: 0.012261 
+time for layer 0 backward: 0.792271 
+time for iteration 160: 1 
+time for layer 1: 0.424061 
+time to compute cost: 0.012680 
+time for layer 0 backward: 0.828153 
+time for iteration 161: 1 
+time for layer 1: 0.452050 
+time to compute cost: 0.013553 
+time for layer 0 backward: 0.777233 
+time for iteration 162: 1 
+time for layer 1: 0.422442 
+time to compute cost: 0.013998 
+time for layer 0 backward: 0.736056 
+time for iteration 163: 1 
+time for layer 1: 0.439154 
+time to compute cost: 0.011776 
+time for layer 0 backward: 0.928295 
+time for iteration 164: 1 
+time for layer 1: 0.451754 
+time to compute cost: 0.025696 
+time for layer 0 backward: 0.896797 
+time for iteration 165: 1 
+time for layer 1: 0.548537 
+time to compute cost: 0.017774 
+time for layer 0 backward: 1.017253 
+time for iteration 166: 1 
+time for layer 1: 0.538727 
+time to compute cost: 0.016125 
+time for layer 0 backward: 0.979698 
+time for iteration 167: 1 
+time for layer 1: 0.632167 
+time to compute cost: 0.014634 
+time for layer 0 backward: 0.859050 
+time for iteration 168: 1 
+time for layer 1: 0.420752 
+time to compute cost: 0.012818 
+time for layer 0 backward: 0.753225 
+time for iteration 169: 1 
+time for layer 1: 0.492321 
+time to compute cost: 0.012870 
+time for layer 0 backward: 0.745204 
+time for iteration 170: 1 
+time for layer 1: 0.418961 
+time to compute cost: 0.014231 
+time for layer 0 backward: 0.736840 
+time for iteration 171: 1 
+time for layer 1: 0.461422 
+time to compute cost: 0.013223 
+time for layer 0 backward: 0.797505 
+time for iteration 172: 1 
+time for layer 1: 0.428140 
+time to compute cost: 0.013043 
+time for layer 0 backward: 0.839904 
+time for iteration 173: 1 
+time for layer 1: 0.449186 
+time to compute cost: 0.012816 
+time for layer 0 backward: 0.749918 
+time for iteration 174: 1 
+time for layer 1: 0.462052 
+time to compute cost: 0.014616 
+time for layer 0 backward: 0.824765 
+time for iteration 175: 1 
+time for layer 1: 0.415474 
+time to compute cost: 0.013991 
+time for layer 0 backward: 0.750368 
+time for iteration 176: 1 
+time for layer 1: 0.456812 
+time to compute cost: 0.012572 
+time for layer 0 backward: 0.746333 
+time for iteration 177: 1 
+time for layer 1: 0.408078 
+time to compute cost: 0.011943 
+time for layer 0 backward: 0.809465 
+time for iteration 178: 1 
+time for layer 1: 0.464331 
+time to compute cost: 0.012389 
+time for layer 0 backward: 0.749487 
+time for iteration 179: 1 
+time for layer 1: 0.434741 
+time to compute cost: 0.027828 
+time for layer 0 backward: 0.751898 
+time for iteration 180: 1 
+time for layer 1: 0.455772 
+time to compute cost: 0.013612 
+time for layer 0 backward: 0.748914 
+time for iteration 181: 1 
+time for layer 1: 0.494272 
+time to compute cost: 0.012580 
+time for layer 0 backward: 0.857971 
+time for iteration 182: 1 
+time for layer 1: 0.425378 
+time to compute cost: 0.011749 
+time for layer 0 backward: 0.770558 
+time for iteration 183: 1 
+time for layer 1: 0.415804 
+time to compute cost: 0.019232 
+time for layer 0 backward: 0.747324 
+time for iteration 184: 1 
+time for layer 1: 0.423095 
+time to compute cost: 0.013693 
+time for layer 0 backward: 0.830826 
+time for iteration 185: 1 
+time for layer 1: 0.450888 
+time to compute cost: 0.012667 
+time for layer 0 backward: 0.710713 
+time for iteration 186: 1 
+time for layer 1: 0.428275 
+time to compute cost: 0.012834 
+time for layer 0 backward: 0.736648 
+time for iteration 187: 1 
+time for layer 1: 0.432530 
+time to compute cost: 0.010571 
+time for layer 0 backward: 0.764106 
+time for iteration 188: 1 
+time for layer 1: 0.421612 
+time to compute cost: 0.029370 
+time for layer 0 backward: 0.854408 
+time for iteration 189: 1 
+time for layer 1: 0.441585 
+time to compute cost: 0.013262 
+time for layer 0 backward: 0.727439 
+time for iteration 190: 1 
+time for layer 1: 0.404055 
+time to compute cost: 0.012953 
+time for layer 0 backward: 0.722857 
+time for iteration 191: 1 
+time for layer 1: 0.415230 
+time to compute cost: 0.012412 
+time for layer 0 backward: 0.729520 
+time for iteration 192: 1 
+time for layer 1: 0.438982 
+time to compute cost: 0.014667 
+time for layer 0 backward: 0.797277 
+time for iteration 193: 1 
+time for layer 1: 0.467567 
+time to compute cost: 0.011585 
+time for layer 0 backward: 0.724416 
+time for iteration 194: 1 
+time for layer 1: 0.444372 
+time to compute cost: 0.012757 
+time for layer 0 backward: 0.762535 
+time for iteration 195: 1 
+time for layer 1: 0.433141 
+time to compute cost: 0.016847 
+time for layer 0 backward: 0.781775 
+time for iteration 196: 1 
+time for layer 1: 0.481722 
+time to compute cost: 0.013696 
+time for layer 0 backward: 0.756053 
+time for iteration 197: 1 
+time for layer 1: 0.416097 
+time to compute cost: 0.013662 
+time for layer 0 backward: 0.739755 
+time for iteration 198: 1 
+time for layer 1: 0.430108 
+time to compute cost: 0.013101 
+time for layer 0 backward: 0.749538 
+time for iteration 199: 1 
+time for layer 1: 0.453426 
+time to compute cost: 0.012564 
+time for layer 0 backward: 0.861771 
+time for iteration 200: 1 
+time for layer 1: 0.449627 
+time to compute cost: 0.012084 
+time for layer 0 backward: 0.716178 
+time for iteration 201: 1 
+time for layer 1: 0.436843 
+time to compute cost: 0.013383 
+time for layer 0 backward: 0.750798 
+time for iteration 202: 1 
+time for layer 1: 0.420066 
+time to compute cost: 0.013059 
+time for layer 0 backward: 0.800852 
+time for iteration 203: 1 
+time for layer 1: 0.481603 
+time to compute cost: 0.013240 
+time for layer 0 backward: 0.805666 
+time for iteration 204: 1 
+time for layer 1: 0.429548 
+time to compute cost: 0.012901 
+time for layer 0 backward: 0.752838 
+time for iteration 205: 1 
+time for layer 1: 0.422038 
+time to compute cost: 0.012714 
+time for layer 0 backward: 0.723795 
+time for iteration 206: 1 
+time for layer 1: 0.423576 
+time to compute cost: 0.012539 
+time for layer 0 backward: 0.805527 
+time for iteration 207: 1 
+time for layer 1: 0.452968 
+time to compute cost: 0.014086 
+time for layer 0 backward: 0.775496 
+time for iteration 208: 1 
+time for layer 1: 0.432002 
+time to compute cost: 0.012738 
+time for layer 0 backward: 0.731006 
+time for iteration 209: 1 
+time for layer 1: 0.418121 
+time to compute cost: 0.011655 
+time for layer 0 backward: 0.752629 
+time for iteration 210: 1 
+time for layer 1: 0.489303 
+time to compute cost: 0.014007 
+time for layer 0 backward: 0.747408 
+time for iteration 211: 1 
+time for layer 1: 0.423951 
+time to compute cost: 0.012341 
+time for layer 0 backward: 0.786519 
+time for iteration 212: 1 
+time for layer 1: 0.411682 
+time to compute cost: 0.012383 
+time for layer 0 backward: 0.740770 
+time for iteration 213: 1 
+time for layer 1: 0.433172 
+time to compute cost: 0.012389 
+time for layer 0 backward: 0.760479 
+time for iteration 214: 1 
+time for layer 1: 0.420905 
+time to compute cost: 0.012625 
+time for layer 0 backward: 0.881169 
+time for iteration 215: 1 
+time for layer 1: 0.436078 
+time to compute cost: 0.011636 
+time for layer 0 backward: 0.763259 
+time for iteration 216: 1 
+time for layer 1: 0.427028 
+time to compute cost: 0.012640 
+time for layer 0 backward: 0.764827 
+time for iteration 217: 1 
+time for layer 1: 0.442694 
+time to compute cost: 0.011579 
+time for layer 0 backward: 0.852661 
+time for iteration 218: 1 
+time for layer 1: 0.521178 
+time to compute cost: 0.018955 
+time for layer 0 backward: 0.806430 
+time for iteration 219: 1 
+time for layer 1: 0.421252 
+time to compute cost: 0.018317 
+time for layer 0 backward: 0.816064 
+time for iteration 220: 1 
+time for layer 1: 0.444715 
+time to compute cost: 0.013675 
+time for layer 0 backward: 0.730779 
+time for iteration 221: 1 
+time for layer 1: 0.475916 
+time to compute cost: 0.013647 
+time for layer 0 backward: 0.862669 
+time for iteration 222: 1 
+time for layer 1: 0.502753 
+time to compute cost: 0.014372 
+time for layer 0 backward: 0.868723 
+time for iteration 223: 1 
+time for layer 1: 0.454021 
+time to compute cost: 0.013958 
+time for layer 0 backward: 0.803687 
+time for iteration 224: 1 
+time for layer 1: 0.429331 
+time to compute cost: 0.013642 
+time for layer 0 backward: 0.915481 
+time for iteration 225: 1 
+time for layer 1: 0.467789 
+time to compute cost: 0.011323 
+time for layer 0 backward: 0.819657 
+time for iteration 226: 1 
+time for layer 1: 0.479004 
+time to compute cost: 0.013357 
+time for layer 0 backward: 0.878959 
+time for iteration 227: 1 
+time for layer 1: 0.452741 
+time to compute cost: 0.011928 
+time for layer 0 backward: 0.877221 
+time for iteration 228: 1 
+time for layer 1: 0.451781 
+time to compute cost: 0.011758 
+time for layer 0 backward: 0.751277 
+time for iteration 229: 1 
+time for layer 1: 0.445552 
+time to compute cost: 0.031936 
+time for layer 0 backward: 0.721055 
+time for iteration 230: 1 
+time for layer 1: 0.457498 
+time to compute cost: 0.013147 
+time for layer 0 backward: 0.757988 
+time for iteration 231: 1 
+time for layer 1: 0.422072 
+time to compute cost: 0.013269 
+time for layer 0 backward: 0.852187 
+time for iteration 232: 1 
+time for layer 1: 0.437518 
+time to compute cost: 0.013653 
+time for layer 0 backward: 0.799858 
+time for iteration 233: 1 
+time for layer 1: 0.421518 
+time to compute cost: 0.013403 
+time for layer 0 backward: 0.780096 
+time for iteration 234: 1 
+time for layer 1: 0.420657 
+time to compute cost: 0.012880 
+time for layer 0 backward: 0.736460 
+time for iteration 235: 1 
+time for layer 1: 0.493718 
+time to compute cost: 0.013171 
+time for layer 0 backward: 0.853267 
+time for iteration 236: 1 
+time for layer 1: 0.415388 
+time to compute cost: 0.013078 
+time for layer 0 backward: 0.722298 
+time for iteration 237: 1 
+time for layer 1: 0.400494 
+time to compute cost: 0.009597 
+time for layer 0 backward: 0.744176 
+time for iteration 238: 1 
+time for layer 1: 0.473230 
+time to compute cost: 0.013426 
+time for layer 0 backward: 0.754127 
+time for iteration 239: 1 
+time for layer 1: 0.447290 
+time to compute cost: 0.016848 
+time for layer 0 backward: 0.755284 
+time for iteration 240: 1 
+time for layer 1: 0.427936 
+time to compute cost: 0.012671 
+time for layer 0 backward: 0.758876 
+time for iteration 241: 1 
+time for layer 1: 0.421652 
+time to compute cost: 0.011803 
+time for layer 0 backward: 0.731695 
+time for iteration 242: 1 
+time for layer 1: 0.473220 
+time to compute cost: 0.013473 
+time for layer 0 backward: 0.811532 
+time for iteration 243: 1 
+time for layer 1: 0.420661 
+time to compute cost: 0.011183 
+time for layer 0 backward: 0.738826 
+time for iteration 244: 1 
+time for layer 1: 0.410699 
+time to compute cost: 0.026395 
+time for layer 0 backward: 0.767189 
+time for iteration 245: 1 
+time for layer 1: 0.431859 
+time to compute cost: 0.011877 
+time for layer 0 backward: 0.861412 
+time for iteration 246: 1 
+time for layer 1: 0.531107 
+time to compute cost: 0.014720 
+time for layer 0 backward: 0.862714 
+time for iteration 247: 1 
+time for layer 1: 0.468303 
+time to compute cost: 0.011189 
+time for layer 0 backward: 0.834006 
+time for iteration 248: 1 
+time for layer 1: 0.438335 
+time to compute cost: 0.012653 
+time for layer 0 backward: 0.814390 
+time for iteration 249: 1 
+time for layer 1: 0.478401 
+time to compute cost: 0.011165 
+time for layer 0 backward: 0.960233 
+time for iteration 250: 1 
+time for layer 1: 0.498088 
+time to compute cost: 0.014891 
+time for layer 0 backward: 0.929573 
+time for iteration 251: 1 
+time for layer 1: 0.568910 
+time to compute cost: 0.013129 
+time for layer 0 backward: 0.830418 
+time for iteration 252: 1 
+time for layer 1: 0.500905 
+time to compute cost: 0.014318 
+time for layer 0 backward: 0.799971 
+time for iteration 253: 1 
+time for layer 1: 0.478475 
+time to compute cost: 0.024842 
+time for layer 0 backward: 0.838770 
+time for iteration 254: 1 
+time for layer 1: 0.452725 
+time to compute cost: 0.012322 
+time for layer 0 backward: 0.795839 
+time for iteration 255: 1 
+time for layer 1: 0.405370 
+time to compute cost: 0.009962 
+time for layer 0 backward: 0.864131 
+time for iteration 256: 1 
+time for layer 1: 0.431026 
+time to compute cost: 0.013261 
+time for layer 0 backward: 0.731596 
+time for iteration 257: 1 
+time for layer 1: 0.434783 
+time to compute cost: 0.012035 
+time for layer 0 backward: 0.764080 
+time for iteration 258: 1 
+time for layer 1: 0.420924 
+time to compute cost: 0.032664 
+time for layer 0 backward: 0.748621 
+time for iteration 259: 1 
+time for layer 1: 0.432205 
+time to compute cost: 0.012006 
+time for layer 0 backward: 0.842061 
+time for iteration 260: 1 
+time for layer 1: 0.481043 
+time to compute cost: 0.022723 
+time for layer 0 backward: 0.865115 
+time for iteration 261: 1 
+time for layer 1: 0.525647 
+time to compute cost: 0.025969 
+time for layer 0 backward: 0.891827 
+time for iteration 262: 1 
+time for layer 1: 0.522317 
+time to compute cost: 0.017223 
+time for layer 0 backward: 0.874002 
+time for iteration 263: 1 
+time for layer 1: 0.470634 
+time to compute cost: 0.012461 
+time for layer 0 backward: 0.804133 
+time for iteration 264: 1 
+time for layer 1: 0.434339 
+time to compute cost: 0.012976 
+time for layer 0 backward: 0.923921 
+time for iteration 265: 1 
+time for layer 1: 0.467822 
+time to compute cost: 0.022482 
+time for layer 0 backward: 0.883254 
+time for iteration 266: 1 
+time for layer 1: 0.554946 
+time to compute cost: 0.019505 
+time for layer 0 backward: 1.093530 
+time for iteration 267: 1 
+time for layer 1: 0.528772 
+time to compute cost: 0.012170 
+time for layer 0 backward: 0.892499 
+time for iteration 268: 1 
+time for layer 1: 0.428923 
+time to compute cost: 0.013271 
+time for layer 0 backward: 0.793772 
+time for iteration 269: 1 
+time for layer 1: 0.461984 
+time to compute cost: 0.012739 
+time for layer 0 backward: 0.775514 
+time for iteration 270: 1 
+time for layer 1: 0.449626 
+time to compute cost: 0.014086 
+time for layer 0 backward: 0.752639 
+time for iteration 271: 1 
+time for layer 1: 0.436487 
+time to compute cost: 0.011026 
+time for layer 0 backward: 0.755254 
+time for iteration 272: 1 
+time for layer 1: 0.416446 
+time to compute cost: 0.033055 
+time for layer 0 backward: 0.783725 
+time for iteration 273: 1 
+time for layer 1: 0.406655 
+time to compute cost: 0.029597 
+time for layer 0 backward: 0.842305 
+time for iteration 274: 1 
+time for layer 1: 0.518911 
+time to compute cost: 0.014976 
+time for layer 0 backward: 0.812615 
+time for iteration 275: 1 
+time for layer 1: 0.451035 
+time to compute cost: 0.011927 
+time for layer 0 backward: 1.082912 
+time for iteration 276: 1 
+time for layer 1: 0.460451 
+time to compute cost: 0.017949 
+time for layer 0 backward: 0.782794 
+time for iteration 277: 1 
+time for layer 1: 0.514398 
+time to compute cost: 0.012358 
+time for layer 0 backward: 0.736236 
+time for iteration 278: 1 
+time for layer 1: 0.428963 
+time to compute cost: 0.012349 
+time for layer 0 backward: 0.726251 
+time for iteration 279: 1 
+time for layer 1: 0.483335 
+time to compute cost: 0.012387 
+time for layer 0 backward: 0.908242 
+time for iteration 280: 1 
+time for layer 1: 0.453600 
+time to compute cost: 0.013516 
+time for layer 0 backward: 0.831970 
+time for iteration 281: 1 
+time for layer 1: 0.483548 
+time to compute cost: 0.011758 
+time for layer 0 backward: 0.821199 
+time for iteration 282: 1 
+time for layer 1: 0.501373 
+time to compute cost: 0.013460 
+time for layer 0 backward: 0.860070 
+time for iteration 283: 1 
+time for layer 1: 0.441822 
+time to compute cost: 0.012056 
+time for layer 0 backward: 0.827384 
+time for iteration 284: 1 
+time for layer 1: 0.469009 
+time to compute cost: 0.014204 
+time for layer 0 backward: 0.774736 
+time for iteration 285: 1 
+time for layer 1: 0.475813 
+time to compute cost: 0.016919 
+time for layer 0 backward: 0.856620 
+time for iteration 286: 1 
+time for layer 1: 0.426720 
+time to compute cost: 0.016959 
+time for layer 0 backward: 0.805408 
+time for iteration 287: 1 
+time for layer 1: 0.472347 
+time to compute cost: 0.010201 
+time for layer 0 backward: 0.743305 
+time for iteration 288: 1 
+time for layer 1: 0.512166 
+time to compute cost: 0.013427 
+time for layer 0 backward: 0.726452 
+time for iteration 289: 1 
+time for layer 1: 0.421174 
+time to compute cost: 0.026811 
+time for layer 0 backward: 0.824487 
+time for iteration 290: 1 
+time for layer 1: 0.445783 
+time to compute cost: 0.016960 
+time for layer 0 backward: 0.778452 
+time for iteration 291: 1 
+time for layer 1: 0.461127 
+time to compute cost: 0.011856 
+time for layer 0 backward: 0.782722 
+time for iteration 292: 1 
+time for layer 1: 0.432700 
+time to compute cost: 0.014708 
+time for layer 0 backward: 0.855605 
+time for iteration 293: 1 
+time for layer 1: 0.505361 
+time to compute cost: 0.012179 
+time for layer 0 backward: 0.793637 
+time for iteration 294: 1 
+time for layer 1: 0.483892 
+time to compute cost: 0.022488 
+time for layer 0 backward: 0.747868 
+time for iteration 295: 1 
+time for layer 1: 0.440057 
+time to compute cost: 0.012864 
+time for layer 0 backward: 0.756505 
+time for iteration 296: 1 
+time for layer 1: 0.428810 
+time to compute cost: 0.013569 
+time for layer 0 backward: 0.888689 
+time for iteration 297: 1 
+time for layer 1: 0.432572 
+time to compute cost: 0.019367 
+time for layer 0 backward: 0.733772 
+time for iteration 298: 1 
+time for layer 1: 0.435310 
+time to compute cost: 0.013909 
+time for layer 0 backward: 0.717051 
+time for iteration 299: 1 
+time for layer 1: 0.421215 
+time to compute cost: 0.012911 
+time for layer 0 backward: 0.768677 
+time for iteration 300: 1 
+time for layer 1: 0.485047 
+time to compute cost: 0.014863 
+time for layer 0 backward: 0.763947 
+time for iteration 301: 1 
+time for layer 1: 0.413133 
+time to compute cost: 0.011155 
+time for layer 0 backward: 0.844956 
+time for iteration 302: 1 
+time for layer 1: 0.416845 
+time to compute cost: 0.012582 
+time for layer 0 backward: 0.768826 
+time for iteration 303: 1 
+time for layer 1: 0.423919 
+time to compute cost: 0.011064 
+time for layer 0 backward: 0.804312 
+time for iteration 304: 1 
+time for layer 1: 0.413271 
+time to compute cost: 0.011788 
+time for layer 0 backward: 0.732522 
+time for iteration 305: 1 
+time for layer 1: 0.428195 
+time to compute cost: 0.011041 
+time for layer 0 backward: 0.726706 
+time for iteration 306: 1 
+time for layer 1: 0.423872 
+time to compute cost: 0.012813 
+time for layer 0 backward: 0.711712 
+time for iteration 307: 1 
+time for layer 1: 0.543524 
+time to compute cost: 0.011379 
+time for layer 0 backward: 0.799215 
+time for iteration 308: 1 
+time for layer 1: 0.477371 
+time to compute cost: 0.013495 
+time for layer 0 backward: 0.937568 
+time for iteration 309: 1 
+time for layer 1: 0.477650 
+time to compute cost: 0.012014 
+time for layer 0 backward: 0.959686 
+time for iteration 310: 1 
+time for layer 1: 0.530960 
+time to compute cost: 0.014270 
+time for layer 0 backward: 0.933270 
+time for iteration 311: 1 
+time for layer 1: 0.497828 
+time to compute cost: 0.012131 
+time for layer 0 backward: 0.877569 
+time for iteration 312: 1 
+time for layer 1: 0.470248 
+time to compute cost: 0.014847 
+time for layer 0 backward: 0.892478 
+time for iteration 313: 1 
+time for layer 1: 0.560651 
+time to compute cost: 0.028033 
+time for layer 0 backward: 0.978379 
+time for iteration 314: 1 
+time for layer 1: 0.490455 
+time to compute cost: 0.033361 
+time for layer 0 backward: 0.865994 
+time for iteration 315: 1 
+time for layer 1: 0.476012 
+time to compute cost: 0.012844 
+time for layer 0 backward: 0.831380 
+time for iteration 316: 1 
+time for layer 1: 0.445389 
+time to compute cost: 0.013199 
+time for layer 0 backward: 0.822669 
+time for iteration 317: 1 
+time for layer 1: 0.484214 
+time to compute cost: 0.028319 
+time for layer 0 backward: 0.781614 
+time for iteration 318: 1 
+time for layer 1: 0.425464 
+time to compute cost: 0.020924 
+time for layer 0 backward: 0.771754 
+time for iteration 319: 1 
+time for layer 1: 0.436086 
+time to compute cost: 0.013102 
+time for layer 0 backward: 0.754326 
+time for iteration 320: 1 
+time for layer 1: 0.451876 
+time to compute cost: 0.013083 
+time for layer 0 backward: 0.862195 
+time for iteration 321: 1 
+time for layer 1: 0.500802 
+time to compute cost: 0.011490 
+time for layer 0 backward: 0.787912 
+time for iteration 322: 1 
+time for layer 1: 0.418975 
+time to compute cost: 0.012718 
+time for layer 0 backward: 0.733150 
+time for iteration 323: 1 
+time for layer 1: 0.456104 
+time to compute cost: 0.020576 
+time for layer 0 backward: 0.790626 
+time for iteration 324: 1 
+time for layer 1: 0.443048 
+time to compute cost: 0.015127 
+time for layer 0 backward: 0.746209 
+time for iteration 325: 1 
+time for layer 1: 0.425795 
+time to compute cost: 0.013994 
+time for layer 0 backward: 0.735049 
+time for iteration 326: 1 
+time for layer 1: 0.439332 
+time to compute cost: 0.013886 
+time for layer 0 backward: 0.744135 
+time for iteration 327: 1 
+time for layer 1: 0.458696 
+time to compute cost: 0.012796 
+time for layer 0 backward: 1.029887 
+time for iteration 328: 1 
+time for layer 1: 0.519803 
+time to compute cost: 0.014306 
+time for layer 0 backward: 0.863564 
+time for iteration 329: 1 
+time for layer 1: 0.502721 
+time to compute cost: 0.010918 
+time for layer 0 backward: 0.841129 
+time for iteration 330: 1 
+time for layer 1: 0.432100 
+time to compute cost: 0.012712 
+time for layer 0 backward: 0.834824 
+time for iteration 331: 1 
+time for layer 1: 0.556052 
+time to compute cost: 0.011902 
+time for layer 0 backward: 1.010562 
+time for iteration 332: 1 
+time for layer 1: 0.433944 
+time to compute cost: 0.012615 
+time for layer 0 backward: 0.751049 
+time for iteration 333: 1 
+time for layer 1: 0.391467 
+time to compute cost: 0.011428 
+time for layer 0 backward: 0.827978 
+time for iteration 334: 1 
+time for layer 1: 0.491273 
+time to compute cost: 0.015877 
+time for layer 0 backward: 0.753235 
+time for iteration 335: 1 
+time for layer 1: 0.439636 
+time to compute cost: 0.011143 
+time for layer 0 backward: 0.732411 
+time for iteration 336: 1 
+time for layer 1: 0.438756 
+time to compute cost: 0.015126 
+time for layer 0 backward: 0.795824 
+time for iteration 337: 1 
+time for layer 1: 0.415385 
+time to compute cost: 0.010499 
+time for layer 0 backward: 0.776161 
+time for iteration 338: 1 
+time for layer 1: 0.436727 
+time to compute cost: 0.014103 
+time for layer 0 backward: 0.781188 
+time for iteration 339: 1 
+time for layer 1: 0.457962 
+time to compute cost: 0.012598 
+time for layer 0 backward: 0.801836 
+time for iteration 340: 1 
+time for layer 1: 0.456574 
+time to compute cost: 0.014451 
+time for layer 0 backward: 0.814588 
+time for iteration 341: 1 
+time for layer 1: 0.564685 
+time to compute cost: 0.034525 
+time for layer 0 backward: 0.845575 
+time for iteration 342: 1 
+time for layer 1: 0.450120 
+time to compute cost: 0.013053 
+time for layer 0 backward: 0.752468 
+time for iteration 343: 1 
+time for layer 1: 0.466011 
+time to compute cost: 0.012944 
+time for layer 0 backward: 0.730890 
+time for iteration 344: 1 
+time for layer 1: 0.485548 
+time to compute cost: 0.013979 
+time for layer 0 backward: 0.905545 
+time for iteration 345: 1 
+time for layer 1: 0.477461 
+time to compute cost: 0.012032 
+time for layer 0 backward: 0.712478 
+time for iteration 346: 1 
+time for layer 1: 0.430214 
+time to compute cost: 0.012442 
+time for layer 0 backward: 0.733918 
+time for iteration 347: 1 
+time for layer 1: 0.414988 
+time to compute cost: 0.011300 
+time for layer 0 backward: 0.970516 
+time for iteration 348: 1 
+time for layer 1: 0.474766 
+time to compute cost: 0.026783 
+time for layer 0 backward: 0.828683 
+time for iteration 349: 1 
+time for layer 1: 0.416564 
+time to compute cost: 0.011514 
+time for layer 0 backward: 0.770972 
+time for iteration 350: 1 
+time for layer 1: 0.489317 
+time to compute cost: 0.015141 
+time for layer 0 backward: 0.927462 
+time for iteration 351: 1 
+time for layer 1: 0.464430 
+time to compute cost: 0.013760 
+time for layer 0 backward: 1.169592 
+time for iteration 352: 1 
+time for layer 1: 0.493116 
+time to compute cost: 0.025497 
+time for layer 0 backward: 0.839203 
+time for iteration 353: 1 
+time for layer 1: 0.409367 
+time to compute cost: 0.010253 
+time for layer 0 backward: 0.735855 
+time for iteration 354: 1 
+time for layer 1: 0.472069 
+time to compute cost: 0.011998 
+time for layer 0 backward: 0.847990 
+time for iteration 355: 1 
+time for layer 1: 0.425991 
+time to compute cost: 0.011369 
+time for layer 0 backward: 0.716146 
+time for iteration 356: 1 
+time for layer 1: 0.428516 
+time to compute cost: 0.012403 
+time for layer 0 backward: 0.712458 
+time for iteration 357: 1 
+time for layer 1: 0.441603 
+time to compute cost: 0.013430 
+time for layer 0 backward: 0.747363 
+time for iteration 358: 1 
+time for layer 1: 0.469278 
+time to compute cost: 0.015693 
+time for layer 0 backward: 0.806265 
+time for iteration 359: 1 
+time for layer 1: 0.428418 
+time to compute cost: 0.009323 
+time for layer 0 backward: 0.768338 
+time for iteration 360: 1 
+time for layer 1: 0.459568 
+time to compute cost: 0.014559 
+time for layer 0 backward: 0.769788 
+time for iteration 361: 1 
+time for layer 1: 0.455070 
+time to compute cost: 0.012230 
+time for layer 0 backward: 1.089530 
+time for iteration 362: 1 
+time for layer 1: 0.452690 
+time to compute cost: 0.013105 
+time for layer 0 backward: 0.736478 
+time for iteration 363: 1 
+time for layer 1: 0.415776 
+time to compute cost: 0.013098 
+time for layer 0 backward: 0.799472 
+time for iteration 364: 1 
+time for layer 1: 0.483628 
+time to compute cost: 0.014245 
+time for layer 0 backward: 0.825975 
+time for iteration 365: 1 
+time for layer 1: 0.464108 
+time to compute cost: 0.013000 
+time for layer 0 backward: 0.913069 
+time for iteration 366: 1 
+time for layer 1: 0.447537 
+time to compute cost: 0.014078 
+time for layer 0 backward: 0.738889 
+time for iteration 367: 1 
+time for layer 1: 0.430724 
+time to compute cost: 0.009866 
+time for layer 0 backward: 0.751899 
+time for iteration 368: 1 
+time for layer 1: 0.453426 
+time to compute cost: 0.017197 
+time for layer 0 backward: 0.816843 
+time for iteration 369: 1 
+time for layer 1: 0.485750 
+time to compute cost: 0.010553 
+time for layer 0 backward: 0.754833 
+time for iteration 370: 1 
+time for layer 1: 0.420484 
+time to compute cost: 0.020254 
+time for layer 0 backward: 0.749953 
+time for iteration 371: 1 
+time for layer 1: 0.426551 
+time to compute cost: 0.011315 
+time for layer 0 backward: 0.720130 
+time for iteration 372: 1 
+time for layer 1: 0.474461 
+time to compute cost: 0.013616 
+time for layer 0 backward: 0.813781 
+time for iteration 373: 1 
+time for layer 1: 0.412796 
+time to compute cost: 0.011695 
+time for layer 0 backward: 0.713195 
+time for iteration 374: 1 
+time for layer 1: 0.411046 
+time to compute cost: 0.011085 
+time for layer 0 backward: 0.719889 
+time for iteration 375: 1 
+time for layer 1: 0.417339 
+time to compute cost: 0.012090 
+time for layer 0 backward: 0.852260 
+time for iteration 376: 1 
+time for layer 1: 0.494803 
+time to compute cost: 0.012016 
+time for layer 0 backward: 0.745506 
+time for iteration 377: 1 
+time for layer 1: 0.426231 
+time to compute cost: 0.023187 
+time for layer 0 backward: 0.765648 
+time for iteration 378: 1 
+time for layer 1: 0.420217 
+time to compute cost: 0.012748 
+time for layer 0 backward: 0.752122 
+time for iteration 379: 1 
+time for layer 1: 0.485835 
+time to compute cost: 0.012750 
+time for layer 0 backward: 0.833613 
+time for iteration 380: 1 
+time for layer 1: 0.524892 
+time to compute cost: 0.013861 
+time for layer 0 backward: 0.795748 
+time for iteration 381: 1 
+time for layer 1: 0.415943 
+time to compute cost: 0.011135 
+time for layer 0 backward: 0.826224 
+time for iteration 382: 1 
+time for layer 1: 0.461171 
+time to compute cost: 0.015600 
+time for layer 0 backward: 0.970525 
+time for iteration 383: 1 
+time for layer 1: 0.653787 
+time to compute cost: 0.012338 
+time for layer 0 backward: 0.983916 
+time for iteration 384: 1 
+time for layer 1: 0.524649 
+time to compute cost: 0.013362 
+time for layer 0 backward: 0.794365 
+time for iteration 385: 1 
+time for layer 1: 0.420184 
+time to compute cost: 0.011505 
+time for layer 0 backward: 0.765083 
+time for iteration 386: 1 
+time for layer 1: 0.429436 
+time to compute cost: 0.013460 
+time for layer 0 backward: 0.828230 
+time for iteration 387: 1 
+time for layer 1: 0.451799 
+time to compute cost: 0.011800 
+time for layer 0 backward: 0.754908 
+time for iteration 388: 1 
+time for layer 1: 0.427002 
+time to compute cost: 0.012672 
+time for layer 0 backward: 0.744215 
+time for iteration 389: 1 
+time for layer 1: 1.110314 
+time to compute cost: 0.012520 
+time for layer 0 backward: 0.881248 
+time for iteration 390: 2 
+time for layer 1: 0.499372 
+time to compute cost: 0.013810 
+time for layer 0 backward: 0.748397 
+time for iteration 391: 1 
+time for layer 1: 0.415927 
+time to compute cost: 0.013004 
+time for layer 0 backward: 0.760641 
+time for iteration 392: 1 
+time for layer 1: 0.435107 
+time to compute cost: 0.012900 
+time for layer 0 backward: 0.894810 
+time for iteration 393: 1 
+time for layer 1: 0.550429 
+time to compute cost: 0.013073 
+time for layer 0 backward: 0.860649 
+time for iteration 394: 1 
+time for layer 1: 0.424315 
+time to compute cost: 0.021261 
+time for layer 0 backward: 0.733202 
+time for iteration 395: 1 
+time for layer 1: 0.416297 
+time to compute cost: 0.012239 
+time for layer 0 backward: 0.768042 
+time for iteration 396: 1 
+time for layer 1: 0.463849 
+time to compute cost: 0.015588 
+time for layer 0 backward: 0.771715 
+time for iteration 397: 1 
+time for layer 1: 0.414062 
+time to compute cost: 0.012254 
+time for layer 0 backward: 0.739361 
+time for iteration 398: 1 
+time for layer 1: 0.398907 
+time to compute cost: 0.011667 
+time for layer 0 backward: 0.753205 
+time for iteration 399: 1 
+time for layer 1: 0.443501 
+time to compute cost: 0.011766 
+time for layer 0 backward: 0.834707 
+time for iteration 400: 1 
+time for layer 1: 0.415603 
+time to compute cost: 0.013153 
+time for layer 0 backward: 0.724731 
+time for iteration 401: 1 
+time for layer 1: 0.437535 
+time to compute cost: 0.012556 
